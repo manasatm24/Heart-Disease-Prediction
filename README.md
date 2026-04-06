@@ -1,4 +1,4 @@
-# Heart Disease Prediction Web App
+# Heart Disease Prediction Web Application
 
 A machine learning-powered web application for predicting heart disease risk based on medical parameters. Built as a mini project using Flask and scikit-learn.
 
