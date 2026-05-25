@@ -97,6 +97,3 @@ The Random Forest model achieves approximately 85-90% accuracy on the test set (
 
 This is an academic mini project. Feel free to fork and modify for educational purposes.
 
-## License
-
-Academic project - no specific license applied.
