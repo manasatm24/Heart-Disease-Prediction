@@ -94,6 +94,5 @@ The Random Forest model achieves approximately 85-90% accuracy on the test set (
 - Passwords are hashed using Werkzeug's security functions
 
 ## Contributing
-
 This is an academic mini project. Feel free to fork and modify for educational purposes.
 
